@@ -1,0 +1,8 @@
+{
+  "name": "clip-kampagnen",
+  "description": "Findet Clipping-Kampagnen auf contentrewards.com und produziert daraus fertige Kurzvideos (9:16, mit Untertiteln, Hook und Caption), die du selbst postest.",
+  "version": "0.1.0",
+  "author": { "name": "herenochris" },
+  "license": "MIT",
+  "keywords": ["clipping", "content-rewards", "kurzvideo", "tiktok", "shorts", "reels", "deutsch"]
+}

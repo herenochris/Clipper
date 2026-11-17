@@ -1,0 +1,15 @@
+{
+  "name": "clip-kampagnen",
+  "description": "Clipping-Kampagnen finden und fertige Kurzvideos dafür produzieren, auf Deutsch.",
+  "owner": {
+    "name": "herenochris"
+  },
+  "plugins": [
+    {
+      "name": "clip-kampagnen",
+      "source": "./",
+      "description": "Clipping-Kampagnen finden und fertige Kurzvideos dafür produzieren.",
+      "category": "productivity"
+    }
+  ]
+}
