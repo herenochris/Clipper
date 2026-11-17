@@ -44,7 +44,7 @@ Du kannst die Schritte auch einzeln anstoßen, einfach in normalen Worten
 
 | Skill | Was er macht |
 | --- | --- |
-| `kampagnen-suche` | Kampagnen auf contentrewards.com finden, Regeln und erlaubte Quellen notieren |
+| `kampagnen-suche` | Alle Kampagnen auf contentrewards.com durchgehen, Regeln notieren, die besten 5 vorschlagen |
 | `quelle-holen` | Freigegebenes Ausgangsmaterial und Untertitel mit yt-dlp laden |
 | `momente-finden` | Starke Stellen über Transkript und Lautstärke finden |
 | `clip-bauen` | Schneiden, 9:16, Untertitel einbrennen, Hook einblenden (ffmpeg) |
